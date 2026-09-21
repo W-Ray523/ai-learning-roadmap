@@ -2,3 +2,4 @@
 **/__pycache__/
 *.pyc
 week01/data
+.data/
