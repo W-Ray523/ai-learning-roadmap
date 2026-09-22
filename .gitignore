@@ -3,3 +3,4 @@
 *.pyc
 week01/data
 .data/
+*.pth
