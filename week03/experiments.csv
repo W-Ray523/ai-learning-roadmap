@@ -1,0 +1,3 @@
+experiment_name,seed,lr,optimizer,batch_size,epochs,dropout,weight_decay,train_loss,train_acc,val_loss,val_acc
+baseline_01,42,0.001,Adam,64,50,0.5,0.01,0.1602081176638603,0.945,0.1790093195438385,0.925
+no_dropout,42,0.001,Adam,64,50,0.0,0.01,0.026638858020305634,1.0,0.17063040494918824,0.91625
